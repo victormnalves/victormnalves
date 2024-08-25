@@ -3,6 +3,7 @@
 - São Paulo, Brazil.
 - I hold a B.A in Economics from Insper.
 - Interested in causal inference, public policy, economics and politics.
+- You can find my complete CV [here](https://drive.google.com/file/d/1mAMcjV4BPWbNJinCdiM90JXm_ZwG9ml8/view?usp=sharing).
 - Thanks for visiting!
   
 <div align="center">
