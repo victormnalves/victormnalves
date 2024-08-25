@@ -2,7 +2,6 @@
 
 - São Paulo, Brazil.
 - I hold a B.A in Economics from Insper.
-- Working with Python and R.
 - Interested in causal inference, public policy, economics and politics.
 - Thanks for visiting!
 
