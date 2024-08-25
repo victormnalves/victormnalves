@@ -1,6 +1,4 @@
-## Hi there 👋
-
-# Hello!
+# Hello there!
 
 - São Paulo, Brazil
 - BSc. in Economics
