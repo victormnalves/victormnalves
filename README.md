@@ -1,4 +1,4 @@
-- <h1 align="center">Hi 👋, I'm Victor Alves</h1>
+<h1 align="center">Hi 👋, I'm Victor Alves</h1>
 
 - São Paulo, Brazil.
 - I hold a B.A in Economics from Insper.
