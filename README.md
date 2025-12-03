@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Victor Alves</h1>
 
-- São Paulo, Brazil.
-- I hold a B.A in Economics from Insper.
-- Interested in causal inference, public policy, economics and politics.
-- You can find my complete CV [here](https://drive.google.com/file/d/1mAMcjV4BPWbNJinCdiM90JXm_ZwG9ml8/view?usp=sharing).
-- Thanks for visiting!
+- **Location**: São Paulo, Brazil  
+- **Education**: B.A. in Economics from Insper, graduated *magna cum laude* with a full scholarship  
+- **Current Role**: PhD Candidate in Economics at Insper, focusing on applied microeconomics  
+- **CV**: [Full CV here](https://drive.google.com/file/d/1mAMcjV4BPWbNJinCdiM90JXm_ZwG9ml8/view?usp=sharing)  
+- Thanks for visiting—feel free to reach out if you'd like to chat about economics, policy, or anything in between!
   
 <div align="center">
   <a target="_blank" href="https://www.linkedin.com/in/victormnalves/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
