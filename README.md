@@ -3,7 +3,7 @@
 - **Location**: São Paulo, Brazil  
 - **Education**: B.A. in Economics from Insper, graduated *magna cum laude* with a full scholarship  
 - **Current Role**: PhD Candidate in Economics at Insper, focusing on applied microeconomics  
-- **CV**: [Full CV here](https://drive.google.com/file/d/1mAMcjV4BPWbNJinCdiM90JXm_ZwG9ml8/view?usp=sharing)  
+- **CV**: [Full CV here](https://victormnalves.github.io/files/cv.pdf)  
 - Thanks for visiting—feel free to reach out if you'd like to chat about economics, policy, or anything in between!
   
 <div align="center">
